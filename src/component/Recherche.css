@@ -1,0 +1,9 @@
+.spaceContainer{
+    display: block;
+    height: 50px;
+}
+
+.spaceBtn{
+    display: flex;
+    height: 20px;
+}
